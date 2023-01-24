@@ -1,0 +1,1131 @@
+
+<!DOCTYPE html>
+<!--[if IE 6]>
+<html id="ie6" lang="fr-FR" prefix="og: http://ogp.me/ns#">
+<![endif]-->
+<!--[if IE 7]>
+<html id="ie7" lang="fr-FR" prefix="og: http://ogp.me/ns#">
+<![endif]-->
+<!--[if IE 8]>
+<html id="ie8" lang="fr-FR" prefix="og: http://ogp.me/ns#">
+<![endif]-->
+<!--[if !(IE 6) | !(IE 7) | !(IE 8)  ]><!-->
+<html lang="fr-FR" prefix="og: http://ogp.me/ns#">
+<!--<![endif]-->
+<head>
+		<!-- Google Tag Manager -->
+	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-WQ7N9RP');</script>
+	<!-- End Google Tag Manager -->
+	<meta charset="UTF-8" />
+			
+	
+	<link rel="pingback" href="https://lafashionlib.fr/xmlrpc.php" />
+
+		<!--[if lt IE 9]>
+	<script src="https://lafashionlib.fr/wp-content/themes/Divi/js/html5.js" type="text/javascript"></script>
+	<![endif]-->
+
+	<script type="text/javascript">
+		document.documentElement.className = 'js';
+	</script>
+
+	<title>Mon compte - LA FASHION LIB</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v3.3.4 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="Mon compte - Tableau de bord Commandes Téléchargements Adresses Détails du compte Déconnexion Mettre en location Bonjour admin (pas admin ? Déconnexion )"/>
+<meta name="robots" content="noodp"/>
+<link rel="canonical" href="https://lafashionlib.fr/mon-compte/" />
+<meta property="og:locale" content="fr_FR" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Mon compte - LA FASHION LIB" />
+<meta property="og:description" content="Mon compte - Tableau de bord Commandes Téléchargements Adresses Détails du compte Déconnexion Mettre en location Bonjour admin (pas admin ? Déconnexion )" />
+<meta property="og:url" content="https://lafashionlib.fr/mon-compte/" />
+<meta property="og:site_name" content="LA FASHION LIB" />
+<meta property="article:publisher" content="https://www.facebook.com/LFLparis/" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="Mon compte - Tableau de bord Commandes Téléchargements Adresses Détails du compte Déconnexion Mettre en location Bonjour admin (pas admin ? Déconnexion )" />
+<meta name="twitter:title" content="Mon compte - LA FASHION LIB" />
+<meta name="twitter:site" content="@LFLParis" />
+<meta name="twitter:creator" content="@LFLParis" />
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="LA FASHION LIB &raquo; Flux" href="https://lafashionlib.fr/feed/" />
+<link rel="alternate" type="application/rss+xml" title="LA FASHION LIB &raquo; Flux des commentaires" href="https://lafashionlib.fr/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/lafashionlib.fr\/wp-includes\/js\/wp-emoji-release.min.js?ver=32f845ba2d6a7498ad29d5de13177aba"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])?!1:!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55358,56760,9792,65039],[55358,56760,8203,9792,65039])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<meta content="divi-child v.1.0" name="generator"/><style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='validate-engine-css-css'  href='https://lafashionlib.fr/wp-content/plugins/wysija-newsletters/css/validationEngine.jquery.css?ver=2.17' type='text/css' media='all' />
+<link rel='stylesheet' id='cnss_font_awesome_css-css'  href='https://lafashionlib.fr/wp-content/plugins/easy-social-icons/css/font-awesome/css/all.min.css?ver=5.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='cnss_font_awesome_v4_shims-css'  href='https://lafashionlib.fr/wp-content/plugins/easy-social-icons/css/font-awesome/css/v4-shims.min.css?ver=5.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='cnss_css-css'  href='https://lafashionlib.fr/wp-content/plugins/easy-social-icons/css/cnss.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='bxslider-css-css'  href='https://lafashionlib.fr/wp-content/plugins/kiwi-logo-carousel/third-party/jquery.bxslider/jquery.bxslider.css?ver=32f845ba2d6a7498ad29d5de13177aba' type='text/css' media='' />
+<link rel='stylesheet' id='kiwi-logo-carousel-styles-css'  href='https://lafashionlib.fr/wp-content/plugins/kiwi-logo-carousel/custom-styles.css?ver=32f845ba2d6a7498ad29d5de13177aba' type='text/css' media='' />
+<link rel='stylesheet' id='contact-form-7-css'  href='https://lafashionlib.fr/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='gdpr-css'  href='https://lafashionlib.fr/wp-content/plugins/gdpr/dist/css/public.css?ver=2.1.2' type='text/css' media='all' />
+<link rel='stylesheet' id='nextend_fb_connect_stylesheet-css'  href='https://lafashionlib.fr/wp-content/plugins/nextend-facebook-connect/buttons/facebook-btn.css?ver=32f845ba2d6a7498ad29d5de13177aba' type='text/css' media='all' />
+<link rel='stylesheet' id='popup-maker-site-css'  href='https://lafashionlib.fr/wp-content/plugins/popup-maker/assets/css/site.min.css?ver=1.6.6' type='text/css' media='all' />
+<link rel='stylesheet' id='rs-plugin-settings-css'  href='https://lafashionlib.fr/wp-content/plugins/revslider/public/assets/css/settings.css?ver=5.2.3.5' type='text/css' media='all' />
+<style id='rs-plugin-settings-inline-css' type='text/css'>
+#rs-demo-id {}
+</style>
+<link rel='stylesheet' id='udefault-css'  href='https://lafashionlib.fr/wp-content/plugins/ultimate-wp-query-search-filter/themes/default.css?ver=all' type='text/css' media='all' />
+<link rel='stylesheet' id='pac-styles-css'  href='https://lafashionlib.fr/wp-content/plugins/woocommerce-product-archive-customiser/assets/css/pac.css?ver=32f845ba2d6a7498ad29d5de13177aba' type='text/css' media='all' />
+<link rel='stylesheet' id='pac-layout-styles-css'  href='https://lafashionlib.fr/wp-content/plugins/woocommerce-product-archive-customiser/assets/css/layout.css?ver=32f845ba2d6a7498ad29d5de13177aba' type='text/css' media='only screen and (min-width: 768px)' />
+<link rel='stylesheet' id='woof-css'  href='https://lafashionlib.fr/wp-content/plugins/woocommerce-products-filter/css/front.css?ver=32f845ba2d6a7498ad29d5de13177aba' type='text/css' media='all' />
+<link rel='stylesheet' id='malihu-custom-scrollbar-css'  href='https://lafashionlib.fr/wp-content/plugins/woocommerce-products-filter/js/malihu-custom-scrollbar/jquery.mCustomScrollbar.css?ver=32f845ba2d6a7498ad29d5de13177aba' type='text/css' media='all' />
+<link rel='stylesheet' id='select2-css'  href='//lafashionlib.fr/wp-content/plugins/woocommerce/assets/css/select2.css?ver=2.6.3' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-layout-css'  href='//lafashionlib.fr/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=2.6.3' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-smallscreen-css'  href='//lafashionlib.fr/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=2.6.3' type='text/css' media='only screen and (max-width: 768px)' />
+<link rel='stylesheet' id='woocommerce-general-css'  href='//lafashionlib.fr/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=2.6.3' type='text/css' media='all' />
+<link rel='stylesheet' id='parent-style-css'  href='https://lafashionlib.fr/wp-content/themes/Divi/style.css?ver=32f845ba2d6a7498ad29d5de13177aba' type='text/css' media='all' />
+<link rel='stylesheet' id='child-style-css'  href='https://lafashionlib.fr/wp-content/themes/divi-child/style.css?ver=32f845ba2d6a7498ad29d5de13177aba' type='text/css' media='all' />
+<link rel='stylesheet' id='swiper-style-css'  href='https://lafashionlib.fr/wp-content/themes/divi-child/assets/swiper.min.css?ver=32f845ba2d6a7498ad29d5de13177aba' type='text/css' media='all' />
+<link rel='stylesheet' id='datepicker-style-css'  href='https://lafashionlib.fr/wp-content/themes/divi-child/assets/default.min.css?ver=32f845ba2d6a7498ad29d5de13177aba' type='text/css' media='all' />
+<link rel='stylesheet' id='divi-fonts-css'  href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800&#038;subset=latin,latin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='divi-style-css'  href='https://lafashionlib.fr/wp-content/themes/divi-child/style.css?ver=2.7.10' type='text/css' media='all' />
+<link rel='stylesheet' id='et-shortcodes-css-css'  href='https://lafashionlib.fr/wp-content/themes/Divi/epanel/shortcodes/css/shortcodes.css?ver=2.7.10' type='text/css' media='all' />
+<link rel='stylesheet' id='et-shortcodes-responsive-css-css'  href='https://lafashionlib.fr/wp-content/themes/Divi/epanel/shortcodes/css/shortcodes_responsive.css?ver=2.7.10' type='text/css' media='all' />
+<link rel='stylesheet' id='magnific-popup-css'  href='https://lafashionlib.fr/wp-content/themes/Divi/includes/builder/styles/magnific_popup.css?ver=2.7.10' type='text/css' media='all' />
+<script type='text/javascript' src='https://lafashionlib.fr/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://lafashionlib.fr/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='https://lafashionlib.fr/wp-content/plugins/easy-social-icons/js/cnss.js?ver=1.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var GDPR = {"ajaxurl":"https:\/\/lafashionlib.fr\/wp-admin\/admin-ajax.php","logouturl":"","i18n":{"aborting":"Abandonner","logging_out":"Vous \u00eates d\u00e9connect\u00e9.","continue":"Continuer","cancel":"Annuler","ok":"OK","close_account":"Fermer votre compte\u00a0?","close_account_warning":"Votre compte sera ferm\u00e9 et toutes les donn\u00e9es seront d\u00e9finitivement supprim\u00e9es et ne pourront pas \u00eatre r\u00e9cup\u00e9r\u00e9es. Confirmez-vous\u00a0?","are_you_sure":"Confirmez-vous\u00a0?","policy_disagree":"En n\u2019\u00e9tant pas d\u2019accord, vous n\u2019aurez plus acc\u00e8s \u00e0 notre site et serez d\u00e9connect\u00e9."},"is_user_logged_in":"","refresh":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://lafashionlib.fr/wp-content/plugins/gdpr/dist/js/public.js?ver=2.1.2'></script>
+<script type='text/javascript' src='https://lafashionlib.fr/wp-content/plugins/html5-responsive-faq/js/hrf-script.js?ver=32f845ba2d6a7498ad29d5de13177aba'></script>
+<script type='text/javascript' src='https://lafashionlib.fr/wp-content/plugins/kromi-vendor/kromi-vendor.js?ver=32f845ba2d6a7498ad29d5de13177aba'></script>
+<script type='text/javascript' src='https://lafashionlib.fr/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js?ver=5.2.3.5'></script>
+<script type='text/javascript' src='https://lafashionlib.fr/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js?ver=5.2.3.5'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _zxcvbnSettings = {"src":"https:\/\/lafashionlib.fr\/wp-includes\/js\/zxcvbn.min.js"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://lafashionlib.fr/wp-includes/js/zxcvbn-async.min.js?ver=1.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var aamLocal = {"nonce":"d93489f727","ajaxurl":"https:\/\/lafashionlib.fr\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//lafashionlib.fr/wp-content/plugins/advanced-access-manager/media/js/aam-login.js?ver=32f845ba2d6a7498ad29d5de13177aba'></script>
+<link rel='https://api.w.org/' href='https://lafashionlib.fr/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://lafashionlib.fr/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://lafashionlib.fr/wp-includes/wlwmanifest.xml" /> 
+
+<link rel='shortlink' href='https://lafashionlib.fr/?p=91' />
+<link rel="alternate" type="application/json+oembed" href="https://lafashionlib.fr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flafashionlib.fr%2Fmon-compte%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://lafashionlib.fr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flafashionlib.fr%2Fmon-compte%2F&#038;format=xml" />
+<style type="text/css">
+		ul.cnss-social-icon li.cn-fa-icon a:hover{opacity: 0.7!important;color:#ffffff!important;}
+		</style><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />		<style id="theme-customizer-css">
+															.container, .et_pb_row, .et_pb_slider .et_pb_container, .et_pb_fullwidth_section .et_pb_title_container, .et_pb_fullwidth_section .et_pb_title_featured_container, .et_pb_fullwidth_header:not(.et_pb_fullscreen) .et_pb_fullwidth_header_container { max-width: 980px; }
+			.et_boxed_layout #page-container, .et_fixed_nav.et_boxed_layout #page-container #top-header, .et_fixed_nav.et_boxed_layout #page-container #main-header, .et_boxed_layout #page-container .container, .et_boxed_layout #page-container .et_pb_row { max-width: 1140px; }
+													.nav li ul { border-color: #fd616f; }
+															.et_header_style_centered .mobile_nav .select_page, .et_header_style_split .mobile_nav .select_page, .et_nav_text_color_light #top-menu > li > a, .et_nav_text_color_dark #top-menu > li > a, #top-menu a, .et_mobile_menu li a, .et_nav_text_color_light .et_mobile_menu li a, .et_nav_text_color_dark .et_mobile_menu li a, #et_search_icon:before, .et_search_form_container input, span.et_close_search_field:after, #et-top-navigation .et-cart-info { color: #fd616f; }
+			.et_search_form_container input::-moz-placeholder { color: #fd616f; }
+			.et_search_form_container input::-webkit-input-placeholder { color: #fd616f; }
+			.et_search_form_container input:-ms-input-placeholder { color: #fd616f; }
+											#top-menu li a { font-size: 13px; }
+			body.et_vertical_nav .container.et_search_form_container .et-search-form input { font-size: 13px !important; }
+		
+					#top-menu li a, .et_search_form_container input {
+									font-weight: normal; font-style: normal; text-transform: uppercase; text-decoration: none; 											}
+
+			.et_search_form_container input::-moz-placeholder {
+									font-weight: normal; font-style: normal; text-transform: uppercase; text-decoration: none; 											}
+			.et_search_form_container input::-webkit-input-placeholder {
+									font-weight: normal; font-style: normal; text-transform: uppercase; text-decoration: none; 											}
+			.et_search_form_container input:-ms-input-placeholder {
+									font-weight: normal; font-style: normal; text-transform: uppercase; text-decoration: none; 											}
+		
+					#top-menu li.current-menu-ancestor > a, #top-menu li.current-menu-item > a,
+			.et_color_scheme_red #top-menu li.current-menu-ancestor > a, .et_color_scheme_red #top-menu li.current-menu-item > a,
+			.et_color_scheme_pink #top-menu li.current-menu-ancestor > a, .et_color_scheme_pink #top-menu li.current-menu-item > a,
+			.et_color_scheme_orange #top-menu li.current-menu-ancestor > a, .et_color_scheme_orange #top-menu li.current-menu-item > a,
+			.et_color_scheme_green #top-menu li.current-menu-ancestor > a, .et_color_scheme_green #top-menu li.current-menu-item > a { color: #113545; }
+																									body .et_pb_button,
+			.woocommerce a.button.alt, .woocommerce-page a.button.alt, .woocommerce button.button.alt, .woocommerce-page button.button.alt, .woocommerce input.button.alt, .woocommerce-page input.button.alt, .woocommerce #respond input#submit.alt, .woocommerce-page #respond input#submit.alt, .woocommerce #content input.button.alt, .woocommerce-page #content input.button.alt,
+			.woocommerce a.button, .woocommerce-page a.button, .woocommerce button.button, .woocommerce-page button.button, .woocommerce input.button, .woocommerce-page input.button, .woocommerce #respond input#submit, .woocommerce-page #respond input#submit, .woocommerce #content input.button, .woocommerce-page #content input.button
+			{
+									 font-size: 15px;
+													background: #113545;
+																	border-color: #113545;
+													border-radius: 0px;
+															}
+			body.et_pb_button_helper_class .et_pb_button,
+			.woocommerce.et_pb_button_helper_class a.button.alt, .woocommerce-page.et_pb_button_helper_class a.button.alt, .woocommerce.et_pb_button_helper_class button.button.alt, .woocommerce-page.et_pb_button_helper_class button.button.alt, .woocommerce.et_pb_button_helper_class input.button.alt, .woocommerce-page.et_pb_button_helper_class input.button.alt, .woocommerce.et_pb_button_helper_class #respond input#submit.alt, .woocommerce-page.et_pb_button_helper_class #respond input#submit.alt, .woocommerce.et_pb_button_helper_class #content input.button.alt, .woocommerce-page.et_pb_button_helper_class #content input.button.alt,
+			.woocommerce.et_pb_button_helper_class a.button, .woocommerce-page.et_pb_button_helper_class a.button, .woocommerce.et_pb_button_helper_class button.button, .woocommerce-page.et_pb_button_helper_class button.button, .woocommerce.et_pb_button_helper_class input.button, .woocommerce-page.et_pb_button_helper_class input.button, .woocommerce.et_pb_button_helper_class #respond input#submit, .woocommerce-page.et_pb_button_helper_class #respond input#submit, .woocommerce.et_pb_button_helper_class #content input.button, .woocommerce-page.et_pb_button_helper_class #content input.button {
+							}
+							body .et_pb_button:after,
+			.woocommerce a.button.alt:after, .woocommerce-page a.button.alt:after, .woocommerce button.button.alt:after, .woocommerce-page button.button.alt:after, .woocommerce input.button.alt:after, .woocommerce-page input.button.alt:after, .woocommerce #respond input#submit.alt:after, .woocommerce-page #respond input#submit.alt:after, .woocommerce #content input.button.alt:after, .woocommerce-page #content input.button.alt:after,
+			.woocommerce a.button:after, .woocommerce-page a.button:after, .woocommerce button.button:after, .woocommerce-page button.button:after, .woocommerce input.button:after, .woocommerce-page input.button:after, .woocommerce #respond input#submit:after, .woocommerce-page #respond input#submit:after, .woocommerce #content input.button:after, .woocommerce-page #content input.button:after
+			{
+									font-size: 24px;
+											}
+							body .et_pb_button:hover,
+			.woocommerce a.button.alt:hover, .woocommerce-page a.button.alt:hover, .woocommerce button.button.alt:hover, .woocommerce-page button.button.alt:hover, .woocommerce input.button.alt:hover, .woocommerce-page input.button.alt:hover, .woocommerce #respond input#submit.alt:hover, .woocommerce-page #respond input#submit.alt:hover, .woocommerce #content input.button.alt:hover, .woocommerce-page #content input.button.alt:hover,
+			.woocommerce a.button:hover, .woocommerce-page a.button:hover, .woocommerce button.button, .woocommerce-page button.button:hover, .woocommerce input.button:hover, .woocommerce-page input.button:hover, .woocommerce #respond input#submit:hover, .woocommerce-page #respond input#submit:hover, .woocommerce #content input.button:hover, .woocommerce-page #content input.button:hover
+			{
+													background: #fd616f !important;
+													border-color: #fd616f !important;
+													border-radius: 0px;
+											}
+		
+		
+																														
+		@media only screen and ( min-width: 981px ) {
+																																								.et_header_style_split .centered-inline-logo-wrap { width: auto; height: 80px; }
+				.et_header_style_split .et-fixed-header .centered-inline-logo-wrap { width: auto; height: 54px; }
+				.et_header_style_split .centered-inline-logo-wrap #logo,
+				.et_header_style_split .et-fixed-header .centered-inline-logo-wrap #logo { height: auto; max-height: 100%; }
+
+																.et-fixed-header #top-menu li a { font-size: 13px; }
+										.et-fixed-header #top-menu a, .et-fixed-header #et_search_icon:before, .et-fixed-header #et_top_search .et-search-form input, .et-fixed-header .et_search_form_container input, .et-fixed-header .et_close_search_field:after, .et-fixed-header #et-top-navigation .et-cart-info { color: #fd616f !important; }
+				.et-fixed-header .et_search_form_container input::-moz-placeholder { color: #fd616f !important; }
+				.et-fixed-header .et_search_form_container input::-webkit-input-placeholder { color: #fd616f !important; }
+				.et-fixed-header .et_search_form_container input:-ms-input-placeholder { color: #fd616f !important; }
+										.et-fixed-header #top-menu li.current-menu-ancestor > a,
+				.et-fixed-header #top-menu li.current-menu-item > a { color: #113545 !important; }
+						
+					}
+		@media only screen and ( min-width: 1225px) {
+			.et_pb_row { padding: 24px 0; }
+			.et_pb_section { padding: 49px 0; }
+			.single.et_pb_pagebuilder_layout.et_full_width_page .et_post_meta_wrapper { padding-top: 73px; }
+			.et_pb_section.et_pb_section_first { padding-top: inherit; }
+			.et_pb_fullwidth_section { padding: 0; }
+		}
+		@media only screen and ( max-width: 980px ) {
+																				}
+		@media only screen and ( max-width: 767px ) {
+														}
+	</style>
+
+	
+	
+	<style id="module-customizer-css">
+			</style>
+
+	<link rel="shortcut icon" href="https://lafashionlib.fr/wp-content/uploads/2016/09/apple-touch-icon-180x180.png" /><meta name="generator" content="Powered by Slider Revolution 5.2.3.5 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+<!-- BEGIN GADWP v5.1.2.5 Universal Analytics - https://deconf.com/google-analytics-dashboard-wordpress/ -->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-35621070-18', 'auto');
+  ga('send', 'pageview');
+</script>
+<!-- END GADWP Universal Analytics -->
+<style type="text/css" id="et-custom-css">
+@media screen and (max-width:600px) {
+ .wcsd_content { width:100% !important;}
+ .wcsd_text { top:20px !important; width:100% !important; padding:20px !important;}
+
+}
+
+
+ .gdpr *:not(textarea):not(input):not(select) { color: black; }
+ .gdpr header {height: auto;}
+
+.gdpr.gdpr-privacy-bar .gdpr-right .gdpr-agreement,
+.gdpr.gdpr-reconsent-bar .gdpr-right .gdpr-agreement { border-radius: 25px !important; border: none !important;
+                                                       box-shadow: none !important; background: #fd616f !important; text-shadow: none !important;
+                                                     }
+
+.gdpr-action-buttons { display: flex; justify-content: center;}
+.gdpr-action-buttons a { width: 25%;
+                         text-align: center;
+                       }
+
+.gdpr.gdpr-privacy-preferences .gdpr-wrapper > form > header .gdpr-box-title,
+.gdpr.gdpr-reconsent .gdpr-wrapper .reconsent-form > header .gdpr-box-title,
+.gdpr.gdpr-general-confirmation .gdpr-wrapper > header .gdpr-box-title { border-bottom: 1px solid #fd616f;
+                                                                         background: white !important;
+                                                                       }
+.gdpr.gdpr-privacy-preferences .gdpr-wrapper > form > header .gdpr-box-title h3,
+.gdpr.gdpr-reconsent .gdpr-wrapper .reconsent-form > header .gdpr-box-title h3,
+.gdpr.gdpr-general-confirmation .gdpr-wrapper > header .gdpr-box-title h3 { color:#fd616f !important; }
+.gdpr.gdpr-privacy-preferences .gdpr-wrapper > form > header .gdpr-box-title .gdpr-close:before,
+.gdpr.gdpr-reconsent .gdpr-wrapper .reconsent-form > header .gdpr-box-title .gdpr-close:before,
+.gdpr.gdpr-general-confirmation .gdpr-wrapper > header .gdpr-box-title .gdpr-close:before { color: black !important;}
+.gdpr.gdpr-privacy-preferences .gdpr-content .gdpr-tabs,
+.gdpr.gdpr-reconsent .gdpr-content .gdpr-tabs { background: white !important; }
+.gdpr.gdpr-privacy-preferences .gdpr-content .gdpr-tabs .gdpr-tab-button,
+.gdpr.gdpr-reconsent .gdpr-content .gdpr-tabs .gdpr-tab-button { background-color: white !important; color: #fd616f !important; }
+.gdpr.gdpr-privacy-preferences .gdpr-content .gdpr-tabs .gdpr-tab-button:hover,
+.gdpr.gdpr-reconsent .gdpr-content .gdpr-tabs .gdpr-tab-button:hover { background-color: #fd616f !important; color: white !important; }
+.gdpr.gdpr-privacy-preferences .gdpr-content .gdpr-tabs .gdpr-subtabs,
+.gdpr.gdpr-reconsent .gdpr-content .gdpr-tabs .gdpr-subtabs { padding: 0 !important; padding-left: 5px !important;
+                                                              background-color: #fd616f !important;
+                                                            }
+.gdpr.gdpr-privacy-preferences .gdpr-content .gdpr-tabs .gdpr-subtabs button,
+.gdpr.gdpr-reconsent .gdpr-content .gdpr-tabs .gdpr-subtabs button { border: 1px solid white !important;
+                                                                     background-color: white !important;
+                                                                     color: black !important;
+                                                                   }
+.gdpr.gdpr-privacy-preferences .gdpr-content .gdpr-tabs .gdpr-subtabs button:hover,
+.gdpr.gdpr-reconsent .gdpr-content .gdpr-tabs .gdpr-subtabs button:hover { border: 1px solid #fd616f !important; border-left: 1px solid white !important;
+                                                                           color: #fd616f !important;
+                                                                         }
+.gdpr.gdpr-privacy-preferences .gdpr-content .gdpr-tabs li:before,
+.gdpr.gdpr-reconsent .gdpr-content .gdpr-tabs li:before,
+.gdpr-cookie-categories-item:before { content: none !important;}
+.gdpr.gdpr-privacy-preferences .gdpr-content .gdpr-tabs .gdpr-policies li a,
+.gdpr.gdpr-reconsent .gdpr-content .gdpr-tabs .gdpr-policies li a { background: white !important;
+                                                                    color: #fd616f !important; font-style: normal;
+                                                                  }
+.gdpr.gdpr-privacy-preferences .gdpr-content .gdpr-tabs .gdpr-policies li a:hover,
+.gdpr.gdpr-reconsent .gdpr-content .gdpr-tabs .gdpr-policies li a:hover { background: #fd616f !important;
+                                                                          color: white !important;
+                                                                        }
+.gdpr.gdpr-privacy-preferences .gdpr-content .gdpr-cookie-title .gdpr-always-active,
+.gdpr.gdpr-reconsent .gdpr-content .gdpr-cookie-title .gdpr-always-active  { background-color: #fd616f !important; }
+.gdpr.gdpr-privacy-preferences .gdpr-content .gdpr-cookie-title .gdpr-switch .gdpr-slider,
+.gdpr.gdpr-reconsent .gdpr-content .gdpr-cookie-title .gdpr-switch .gdpr-slider { background-color: #fd616f !important; }
+.gdpr.gdpr-privacy-preferences .gdpr-content .gdpr-cookie-title .gdpr-switch .gdpr-switch-indicator-on,
+.gdpr.gdpr-reconsent .gdpr-content .gdpr-cookie-title .gdpr-switch .gdpr-switch-indicator-off,
+.gdpr.gdpr-privacy-preferences .gdpr-content .gdpr-cookie-title .gdpr-switch .gdpr-switch-indicator-on,
+.gdpr.gdpr-reconsent .gdpr-content .gdpr-cookie-title .gdpr-switch .gdpr-switch-indicator-off  { color: #fd616f !important; }
+
+.gdpr.gdpr-privacy-preferences .gdpr-content button.gdpr-tab-button.gdpr-active,
+.gdpr.gdpr-reconsent .gdpr-content button.gdpr-tab-button.gdpr-active { background: #fd616f !important;
+                                                                        color: white !important;
+                                                                      }
+.gdpr.gdpr-privacy-preferences footer input[type="submit"],
+.gdpr.gdpr-reconsent footer input[type="submit"] { border-radius: 25px !important; border: 1px solid #fd616f !important;
+                                                   box-shadow: none !important; background: #fd616f !important;
+                                                   text-shadow: none !important; }
+.gdpr.gdpr-privacy-preferences footer input[type="submit"]:hover,
+.gdpr.gdpr-reconsent footer input[type="submit"]:hover { border: 1px solid black !important;
+                                                         background-color: black !important;
+                                                       }
+.gdpr.gdpr-privacy-preferences footer .gdpr-disagree a,
+.gdpr.gdpr-reconsent footer .gdpr-disagree a { padding: 0 10px 1px !important; display: inline-block !important; border:1px solid #fd616f !important;
+                                               color: #fd616f !important;  text-decoration: none !important; font-size: 13px !important; line-height: 26px !important; font-weight: normal !important;
+                                             }
+.gdpr.gdpr-privacy-preferences footer .gdpr-disagree a:hover,
+.gdpr.gdpr-reconsent footer .gdpr-disagree a:hover { background-color: #fd616f !important;
+                                                     color: white !important;
+                                                     padding: 0 10px 1px !important;
+                                                   }
+.gdpr.gdpr-general-confirmation footer button { border-radius: 25px !important; border: none !important; margin-right: 10px !important;
+                                                box-shadow: none !important;
+                                                color: white !important; text-shadow: none !important;
+                                                background: #fd616f !important;
+                                              }
+.gdpr.gdpr-general-confirmation footer button:hover { background-color: black !important; }
+.gdpr-buttons a { border: none; padding: 5px 10px;
+                  background-color: black;
+                  color: white; font-weight: bold;
+                }
+.gdpr-buttons a:hover { background-color: #fd616f; }
+button.gdpr-preferences { border: 1px solid #fd616f; padding: 5px 10px; border-radius:25px;
+                          background-color: #fd616f;
+                          color: white; font-weight: bold;
+                        }
+button.gdpr-preferences:hover { background-color: white;
+                                color: #fd616f;
+                                cursor:pointer;
+                              }
+
+.gdpr-request { max-width: 600px; margin: 40px auto 40px auto;
+                font-size: 0;
+              }
+.gdpr-request .gdpr-request-form { width: 100%;
+                                   text-align: center;
+                                 }
+.gdpr-request .gdpr-request-form input[type="email"] { width: 100%; margin-bottom: 20px; padding: 10px; }
+.gdpr-request .gdpr-request-form textarea { width: 100%; }
+
+.gdpr-consent-checkbox,.gform_footer { margin-top: 10px;
+	.gdpr-label {font-family: 'din-light'; font-size: 12px;}
+}
+
+.form-type-droit .gfield_label { border-bottom: none !important;
+	mmi {display: none; }
+}
+
+.gform_wrapper .gform_footer:not(.top_label) { width: 100% !important; margin-left: 0 !important;
+	&.right_label p { display: block;}
+}
+
+.gform_wrapper .droits-informatique-libertes {
+	li > label > span.gfield_required {display: inline-block;}
+}
+
+.gdpr-content {
+	a { color:white !important; font-weight:bold !important; text-decoration:underline;
+		&:hover { text-decoration:none;}
+	}
+}
+</style>
+		<style type="text/css">
+	
+	
+
+
+	
+
+	        /***** START: hiding submit button of the price slider ******/
+	        .woof_price_search_container .price_slider_amount button.button{
+	    	display: none;
+	        }
+
+	        .woof_price_search_container .price_slider_amount .price_label{
+	    	text-align: left !important;
+	        }
+
+	        .woof .widget_price_filter .price_slider_amount .button {
+	    	float: left;
+	        }
+
+	        /***** END: hiding submit button of the price slider ******/
+
+
+	
+
+
+
+	</style>
+	
+		    <style type="text/css">
+	        .woof_edit_view{
+	    	display: none;
+	        }
+	    </style>
+	
+
+
+
+	<script type="text/javascript">
+
+	    var woof_ajaxurl = "https://lafashionlib.fr/wp-admin/admin-ajax.php";
+
+	    if (typeof woof_lang_custom == 'undefined') {
+		var woof_lang_custom = {};//!!important
+	    }
+
+	    //***
+
+	    var woof_is_mobile = 0;
+	
+	    var woof_is_permalink =1;
+
+	    var woof_shop_page = "";
+	
+	    var woof_really_curr_tax = {};
+
+	    var woof_show_price_search_button = 0;
+	
+	    var swoof_search_slug = "swoof";
+
+	
+	    var icheck_skin = {};
+		        icheck_skin = 'none';
+	
+	    var is_woof_use_chosen =0;
+
+	    var woof_current_page_link = location.protocol + '//' + location.host + location.pathname;
+	    //***lets remove pagination from woof_current_page_link
+	    woof_current_page_link = woof_current_page_link.replace(/\page\/[0-9]+/, "");
+			    woof_current_page_link = "https://lafashionlib.fr/emprunter/";
+			    var woof_link = 'https://lafashionlib.fr/wp-content/plugins/woocommerce-products-filter/';
+
+	    var woof_current_values = '[]';
+	    //+++
+	    var woof_lang_loading = "Loading ...";
+
+	
+	    var woof_lang_show_products_filter = "show products filter";
+	    var woof_lang_hide_products_filter = "hide products filter";
+	    var woof_lang_pricerange = "price range";
+
+
+	    var woof_lang = {
+		'orderby': "orderby",
+		'perpage': "per page",
+		'pricerange': "price range",
+		'menu_order': "menu order",
+		'popularity': "popularity",
+		'rating': "rating",
+		'price': "price high to low",
+		'price-desc': "price low to high"
+	    };
+
+
+
+	    var woof_use_beauty_scroll =1;
+	    //+++
+	    var woof_autosubmit =1;
+	    var woof_ajaxurl = "https://lafashionlib.fr/wp-admin/admin-ajax.php";
+	    var woof_submit_link = "";
+	    var woof_is_ajax = 0;
+	    var woof_ajax_redraw = 0;
+	    var woof_ajax_page_num =1;
+	    var woof_ajax_first_done = false;
+	    var woof_checkboxes_slide_flag = true;
+
+
+	    //toggles
+	    var woof_toggle_type = "text";
+
+	    var woof_toggle_closed_text = "-";
+	    var woof_toggle_opened_text = "+";
+
+	    var woof_toggle_closed_image = "https://lafashionlib.fr/wp-content/plugins/woocommerce-products-filter/img/plus3.png";
+	    var woof_toggle_opened_image = "https://lafashionlib.fr/wp-content/plugins/woocommerce-products-filter/img/minus3.png";
+
+
+	    //indexes which can be displayed in red buttons panel
+		    var woof_accept_array = ["min_price", "orderby", "perpage", ,"product_cat","product_tag","pa_taille","pa_couleur","pa_matiere","pa_etat","pa_marque","vendeur"];
+
+	
+
+	    var woof_overlay_skin = "default";
+	    jQuery(function () {
+		woof_current_values = jQuery.parseJSON(woof_current_values);
+		if (woof_current_values.length == 0) {
+		    woof_current_values = {};
+		}
+
+	    });
+	    //***
+	    //for extensions
+
+	    var woof_ext_init_functions = null;
+	
+
+	    //***
+	    function woof_js_after_ajax_done() {
+		jQuery(document).trigger('woof_ajax_done');
+		    }
+	</script>
+		<style id="pum-styles" type="text/css" media="all">
+	/* Popup Google Fonts */
+@import url('//fonts.googleapis.com/css?family=Acme|Montserrat');
+
+/* Popup Theme 604: Framed Border */
+.pum-theme-604, .pum-theme-framed-border { background-color: rgba( 255, 255, 255, 0.5 ) } 
+.pum-theme-604 .pum-container, .pum-theme-framed-border .pum-container { padding: 18px; border-radius: 0px; border: 20px outset #dd3333; box-shadow: 1px 1px 3px 0px rgba( 2, 2, 2, 0.97 ) inset; background-color: rgba( 255, 251, 239, 1 ) } 
+.pum-theme-604 .pum-title, .pum-theme-framed-border .pum-title { color: #000000; text-align: left; text-shadow: 0px 0px 0px rgba( 2, 2, 2, 0.23 ); font-family: inherit; font-size: 32px; line-height: 36px } 
+.pum-theme-604 .pum-content, .pum-theme-framed-border .pum-content { color: #2d2d2d; font-family: inherit } 
+.pum-theme-604 .pum-content + .pum-close, .pum-theme-framed-border .pum-content + .pum-close { height: 20px; width: 20px; left: auto; right: -20px; bottom: auto; top: -20px; padding: 0px; color: #ffffff; font-family: Acme; font-size: 20px; line-height: 20px; border: 1px none #ffffff; border-radius: 0px; box-shadow: 0px 0px 0px 0px rgba( 2, 2, 2, 0.23 ); text-shadow: 0px 0px 0px rgba( 0, 0, 0, 0.23 ); background-color: rgba( 0, 0, 0, 0.55 ) } 
+/* Popup Theme 603: Cutting Edge */
+.pum-theme-603, .pum-theme-cutting-edge { background-color: rgba( 0, 0, 0, 0.5 ) } 
+.pum-theme-603 .pum-container, .pum-theme-cutting-edge .pum-container { padding: 18px; border-radius: 0px; border: 1px none #000000; box-shadow: 0px 10px 25px 0px rgba( 2, 2, 2, 0.5 ); background-color: rgba( 30, 115, 190, 1 ) } 
+.pum-theme-603 .pum-title, .pum-theme-cutting-edge .pum-title { color: #ffffff; text-align: left; text-shadow: 0px 0px 0px rgba( 2, 2, 2, 0.23 ); font-family: Sans-Serif; font-size: 26px; line-height: 28px } 
+.pum-theme-603 .pum-content, .pum-theme-cutting-edge .pum-content { color: #ffffff; font-family: inherit } 
+.pum-theme-603 .pum-content + .pum-close, .pum-theme-cutting-edge .pum-content + .pum-close { height: 24px; width: 24px; left: auto; right: 0px; bottom: auto; top: 0px; padding: 0px; color: #1e73be; font-family: inherit; font-size: 32px; line-height: 24px; border: 1px none #ffffff; border-radius: 0px; box-shadow: -1px 1px 1px 0px rgba( 2, 2, 2, 0.1 ); text-shadow: -1px 1px 1px rgba( 0, 0, 0, 0.1 ); background-color: rgba( 238, 238, 34, 1 ) } 
+/* Popup Theme 602: Hello Box */
+.pum-theme-602, .pum-theme-hello-box { background-color: rgba( 0, 0, 0, 0.75 ) } 
+.pum-theme-602 .pum-container, .pum-theme-hello-box .pum-container { padding: 30px; border-radius: 80px; border: 14px solid #81d742; box-shadow: 0px 0px 0px 0px rgba( 2, 2, 2, 0 ); background-color: rgba( 255, 255, 255, 1 ) } 
+.pum-theme-602 .pum-title, .pum-theme-hello-box .pum-title { color: #2d2d2d; text-align: left; text-shadow: 0px 0px 0px rgba( 2, 2, 2, 0.23 ); font-family: Montserrat; font-size: 32px; line-height: 36px } 
+.pum-theme-602 .pum-content, .pum-theme-hello-box .pum-content { color: #2d2d2d; font-family: inherit } 
+.pum-theme-602 .pum-content + .pum-close, .pum-theme-hello-box .pum-content + .pum-close { height: auto; width: auto; left: auto; right: -30px; bottom: auto; top: -30px; padding: 0px; color: #2d2d2d; font-family: inherit; font-size: 32px; line-height: 28px; border: 1px none #ffffff; border-radius: 28px; box-shadow: 0px 0px 0px 0px rgba( 2, 2, 2, 0.23 ); text-shadow: 0px 0px 0px rgba( 0, 0, 0, 0.23 ); background-color: rgba( 255, 255, 255, 1 ) } 
+/* Popup Theme 601: Enterprise Blue */
+.pum-theme-601, .pum-theme-enterprise-blue { background-color: rgba( 0, 0, 0, 0.7 ) } 
+.pum-theme-601 .pum-container, .pum-theme-enterprise-blue .pum-container { padding: 28px; border-radius: 5px; border: 1px none #000000; box-shadow: 0px 10px 25px 4px rgba( 2, 2, 2, 0.5 ); background-color: rgba( 255, 255, 255, 1 ) } 
+.pum-theme-601 .pum-title, .pum-theme-enterprise-blue .pum-title { color: #315b7c; text-align: left; text-shadow: 0px 0px 0px rgba( 2, 2, 2, 0.23 ); font-family: inherit; font-size: 34px; line-height: 36px } 
+.pum-theme-601 .pum-content, .pum-theme-enterprise-blue .pum-content { color: #2d2d2d; font-family: inherit } 
+.pum-theme-601 .pum-content + .pum-close, .pum-theme-enterprise-blue .pum-content + .pum-close { height: 28px; width: 28px; left: auto; right: 8px; bottom: auto; top: 8px; padding: 4px; color: #ffffff; font-family: inherit; font-size: 20px; line-height: 20px; border: 1px none #ffffff; border-radius: 42px; box-shadow: 0px 0px 0px 0px rgba( 2, 2, 2, 0.23 ); text-shadow: 0px 0px 0px rgba( 0, 0, 0, 0.23 ); background-color: rgba( 49, 91, 124, 1 ) } 
+/* Popup Theme 600: Light Box */
+.pum-theme-600, .pum-theme-lightbox { background-color: rgba( 0, 0, 0, 0.6 ) } 
+.pum-theme-600 .pum-container, .pum-theme-lightbox .pum-container { padding: 18px; border-radius: 3px; border: 8px solid #000000; box-shadow: 0px 0px 30px 0px rgba( 2, 2, 2, 1 ); background-color: rgba( 255, 255, 255, 1 ) } 
+.pum-theme-600 .pum-title, .pum-theme-lightbox .pum-title { color: #000000; text-align: left; text-shadow: 0px 0px 0px rgba( 2, 2, 2, 0.23 ); font-family: inherit; font-size: 32px; line-height: 36px } 
+.pum-theme-600 .pum-content, .pum-theme-lightbox .pum-content { color: #000000; font-family: inherit } 
+.pum-theme-600 .pum-content + .pum-close, .pum-theme-lightbox .pum-content + .pum-close { height: 30px; width: 30px; left: auto; right: -24px; bottom: auto; top: -24px; padding: 0px; color: #ffffff; font-family: inherit; font-size: 24px; line-height: 26px; border: 2px solid #ffffff; border-radius: 30px; box-shadow: 0px 0px 15px 1px rgba( 2, 2, 2, 0.75 ); text-shadow: 0px 0px 0px rgba( 0, 0, 0, 0.23 ); background-color: rgba( 0, 0, 0, 1 ) } 
+/* Popup Theme 599: Default Theme */
+.pum-theme-599, .pum-theme-default-theme { background-color: rgba( 255, 255, 255, 1 ) } 
+.pum-theme-599 .pum-container, .pum-theme-default-theme .pum-container { padding: 18px; border-radius: 0px; border: 1px none #000000; box-shadow: 1px 1px 3px 0px rgba( 2, 2, 2, 0.23 ); background-color: rgba( 249, 249, 249, 1 ) } 
+.pum-theme-599 .pum-title, .pum-theme-default-theme .pum-title { color: #000000; text-align: left; text-shadow: 0px 0px 0px rgba( 2, 2, 2, 0.23 ); font-family: inherit; font-weight: inherit; font-size: 32px; font-style: normal; line-height: 36px } 
+.pum-theme-599 .pum-content, .pum-theme-default-theme .pum-content { color: #8c8c8c; font-family: inherit; font-weight: inherit; font-style: normal } 
+.pum-theme-599 .pum-content + .pum-close, .pum-theme-default-theme .pum-content + .pum-close { height: auto; width: auto; left: auto; right: 0px; bottom: auto; top: 0px; padding: 8px; color: #ffffff; font-family: inherit; font-weight: inherit; font-size: 12px; font-style: normal; line-height: 14px; border: 1px none #ffffff; border-radius: 0px; box-shadow: 0px 0px 0px 0px rgba( 2, 2, 2, 0.23 ); text-shadow: 0px 0px 0px rgba( 0, 0, 0, 0.23 ); background-color: rgba( 0, 183, 205, 1 ) } 
+
+	
+		</style></head>
+<body class="page-template-default page page-id-91 page-parent woocommerce-account woocommerce-page et_pb_button_helper_class et_fixed_nav et_show_nav et_cover_background et_pb_gutter windows et_pb_gutters3 et_primary_nav_dropdown_animation_fade et_secondary_nav_dropdown_animation_fade et_pb_footer_columns2 et_header_style_split et_pb_svg_logo et_pb_pagebuilder_layout et_right_sidebar chrome">
+	<!-- Google Tag Manager (noscript) -->
+	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WQ7N9RP"
+	height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+	<!-- End Google Tag Manager (noscript) -->
+	<div id="page-container">
+	<a href="https://lafashionlib.fr/blog/" class="bandeau-blog"></a>
+
+	
+	
+		<header id="main-header" data-height-onload="66">
+		<div id="widget_header" class="widget-header">
+			<div class="et_pb_row">
+				<div class="header-top-menu header-top-menu--left">
+					<div class="menu-header-top-left-menu-container"><ul id="menu-header-top-left-menu" class="menu"><li id="menu-item-201" class="contact menu-item menu-item-type-post_type menu-item-object-page menu-item-201"><a href="https://lafashionlib.fr/contact/">Contact</a></li>
+<li id="menu-item-202" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-202"><a target="_blank" href="https://lafashionlib.fr/documents/maif-note-info.pdf">Locations assurées par la MAIF</a></li>
+</ul></div>				</div>
+				<div class="header-top-menu header-top-menu--right">
+					<div class="menu-header-top-right-menu-container"><ul id="menu-header-top-right-menu" class="menu"><li id="menu-item-614" class="login-link nmr-logged-out menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-91 current_page_item menu-item-614"><a href="https://lafashionlib.fr/mon-compte/">Connexion</a></li>
+<li id="menu-item-28580" class="nmr-logged-out menu-item menu-item-type-custom menu-item-object-custom menu-item-28580"><a href="https://lafashionlib.fr/inscription/">Inscription</a></li>
+</ul></div>					<a href="https://lafashionlib.fr/panier/" class="et-cart-info">
+			<span>0 Produit</span>
+		</a>				</div>
+			</div>
+		</div>
+			<div class="container clearfix et_menu_container">
+							<div class="logo_container">
+					<span class="logo_helper"></span>
+					<a href="https://lafashionlib.fr/">
+						<img src="https://lafashionlib.fr/wp-content/uploads/2016/10/logo.svg" alt="LA FASHION LIB" id="logo" data-height-percentage="100" />
+					</a>
+				</div>
+				<div id="et-top-navigation" data-height="66" data-fixed-height="40">
+											<nav id="top-menu-nav">
+						<ul id="top-menu" class="nav"><li id="menu-item-178" class="home-link menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-178"><a href="https://lafashionlib.fr/">Locations robes entre particuliers &#8211; Accueil</a></li>
+<li id="menu-item-239" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-239"><a href="https://lafashionlib.fr/le-concept/">Le concept</a></li>
+<li id="menu-item-417" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-417"><a href="https://lafashionlib.fr/mettre-en-location/">Mettre en location</a></li>
+<li id="menu-item-757" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-757"><a href="https://lafashionlib.fr/emprunter/">Emprunter</a></li>
+<li id="menu-item-240" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-240"><a href="https://lafashionlib.fr/le-dressing-de/">Le dressing de …</a></li>
+</ul>						</nav>
+					
+					
+										<div id="et_top_search">
+						<span id="et_search_icon"></span>
+					</div>
+					
+					<div id="et_mobile_nav_menu">
+				<div class="mobile_nav closed">
+					<span class="select_page">Sélectionner une page</span>
+					<span class="mobile_menu_bar mobile_menu_bar_toggle"></span>
+				</div>
+			</div>				</div> <!-- #et-top-navigation -->
+			</div> <!-- .container -->
+			<div class="et_search_outer">
+				<div class="container et_search_form_container">
+					<form role="search" method="get" class="et-search-form" action="https://lafashionlib.fr/">
+					<input type="search" class="et-search-field" placeholder="Rechercher &hellip;" value="" name="s" title="Rechercher:" />					</form>
+					<span class="et_close_search_field"></span>
+				</div>
+			</div>
+		</header> <!-- #main-header -->
+
+		<div id="et-main-area">
+
+<div id="main-content">
+
+
+			
+				<article id="post-91" class="post-91 page type-page status-publish hentry">
+
+				
+					<div class="entry-content">
+					<div class="et_pb_section  et_pb_section_0 et_pb_with_background et_section_regular">
+				
+				
+					
+					<div class=" et_pb_row et_pb_row_0">
+				
+				<div class="et_pb_column et_pb_column_4_4  et_pb_column_0">
+				
+				<div class="et_pb_module et-waypoint et_pb_image et_pb_animation_left et_pb_image_0 et_always_center_on_mobile">
+				<img src="https://lafashionlib.fr/wp-content/uploads/2016/06/shop-bandeau.jpg" alt="" />
+			
+			</div>
+			</div> <!-- .et_pb_column -->
+					
+			</div> <!-- .et_pb_row -->
+				
+			</div> <!-- .et_pb_section --><div class="et_pb_section  et_pb_section_1 et_pb_with_background et_section_regular">
+				
+				
+					
+					<div class=" et_pb_row et_pb_row_1">
+				
+				<div class="et_pb_column et_pb_column_4_4  et_pb_column_1">
+				
+				<div class="et_pb_code et_pb_module  et_pb_code_0">
+				<div class="woocommerce">
+
+
+
+		<h2>Connexion</h2>
+
+		<form method="post" class="login">
+
+			
+			<p class="woocommerce-FormRow woocommerce-FormRow--wide form-row form-row-wide">
+				<label for="username">Adresse de messagerie <span class="required">*</span></label>
+				<input type="text" class="woocommerce-Input woocommerce-Input--text input-text" name="username" id="username" value="" />
+			</p>
+			<p class="woocommerce-FormRow woocommerce-FormRow--wide form-row form-row-wide">
+				<label for="password">Mot de passe <span class="required">*</span></label>
+				<input class="woocommerce-Input woocommerce-Input--text input-text" type="password" name="password" id="password" />
+			</p>
+
+			
+			<p class="form-row">
+				<input type="hidden" id="woocommerce-login-nonce" name="woocommerce-login-nonce" value="2ca16666e3" /><input type="hidden" name="_wp_http_referer" value="/mon-compte/" />				<p class="submit-container et_pb_button">
+					<input type="submit" class="woocommerce-Button button" name="login" value="Connexion" />
+				</p>
+				<label for="rememberme" class="inline">
+					<input class="woocommerce-Input woocommerce-Input--checkbox" name="rememberme" type="checkbox" id="rememberme" value="forever" /> Se souvenir de moi				</label>
+			</p>
+			<p class="woocommerce-LostPassword lost_password">
+				<a href="https://lafashionlib.fr/mon-compte/lost-password/">Mot de passe perdu&nbsp;?</a>
+				<a class="inscription-link" href="https://lafashionlib.fr/inscription">M'inscrire</a>
+			</p>
+
+			
+		</form>
+
+
+</div>
+			</div> <!-- .et_pb_code -->
+			</div> <!-- .et_pb_column -->
+					
+			</div> <!-- .et_pb_row -->
+				
+			</div> <!-- .et_pb_section -->
+					</div> <!-- .entry-content -->
+
+				
+				</article> <!-- .et_pb_post -->
+
+			
+
+</div> <!-- #main-content -->
+
+
+			<footer id="main-footer">
+		
+				<div id="et-footer-nav">
+					<div class="container">
+						<ul id="menu-footer-menu" class="bottom-nav"><li id="menu-item-282" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-282"><a href="https://lafashionlib.fr/faq#hrf-entry-836">Paiement sécurisé</a></li>
+<li id="menu-item-281" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-281"><a href="https://lafashionlib.fr/faq#hrf-entry-817">Contrôle des annonces</a></li>
+<li id="menu-item-280" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-280"><a href="https://lafashionlib.fr/faq/">FAQ</a></li>
+<li id="menu-item-718" class="maif menu-item menu-item-type-custom menu-item-object-custom menu-item-718"><a target="_blank" href="https://lafashionlib.fr/documents/maif-note-info.pdf">LOCATIONS ASSURÉES PAR</a></li>
+</ul>					</div>
+				</div> <!-- #et-footer-nav -->
+
+							
+<div class="container">
+	<div id="footer-widgets" class="clearfix">
+	<div class="footer-widget"><div id="text-2" class="fwidget et_pb_widget widget_text">			<div class="textwidget"><p>La Fashion Lib : une autre façon de consommer la mode.<br />
+Libres de porter vos marques préférées sans les acheter !<br />
+Libres de tirer profit de vos dressings !<br />
+Louez, louez, louez !<br />
+Rejoignez notre dressing participatif, la mode devient collaborative ! </p>
+</div>
+		</div> <!-- end .fwidget --></div> <!-- end .footer-widget --><div class="footer-widget"><div id="custom_html-2" class="widget_text fwidget et_pb_widget widget_custom_html"><div class="textwidget custom-html-widget"><div role="form" class="wpcf7" id="wpcf7-f32818-o1" lang="fr-FR" dir="ltr">
+<div class="screen-reader-response"></div>
+<form action="/mon-compte/#wpcf7-f32818-o1" method="post" class="wpcf7-form" novalidate="novalidate">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="32818" />
+<input type="hidden" name="_wpcf7_version" value="4.4.2" />
+<input type="hidden" name="_wpcf7_locale" value="fr_FR" />
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f32818-o1" />
+<input type="hidden" name="_wpnonce" value="24d728b19e" />
+</div>
+<p><span class="wpcf7-form-control-wrap your-email"><input type="email" name="your-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-email" aria-invalid="false" placeholder="Mon adresse mail" /></span><br />
+<span class="wpcf7-form-control-wrap mailpoetsignup-141"><input type="checkbox" name="mailpoetsignup-141" value="mailpoet_list_3" class="wpcf7-form-control wpcf7-mailpoetsignup wpcf7-validates-as-required" aria-required="true" checked="checked" />&nbsp;</span><label for="mailpoetsignup-141">M'inscrire à la newsletter</label>&nbsp;</p>
+<p><input type="submit" value="Envoyer" class="wpcf7-form-control wpcf7-submit" /></p>
+<input type='hidden' class='wpcf7-pum' value='{"closepopup":false,"closedelay":0,"openpopup":false,"openpopup_id":0}' /><div class="wpcf7-response-output wpcf7-display-none"></div></form></div></div></div> <!-- end .fwidget --><div id="cnss_widget-2" class="fwidget et_pb_widget widget_cnss_widget"><ul id="" class="cnss-social-icon " style="text-align:right;"><li class="cn-fa-facebook" style="display:inline-block;"><a class="" target="_blank" href="https://www.facebook.com/LFLparis/" title="Facebook" style=""><img src="https://lafashionlib.fr/wp-content/uploads/2016/06/fb.png" border="0" width="32" height="32" alt="Facebook" title="Facebook" style="margin:2px;" /></a></li><li class="cn-fa-twitter" style="display:inline-block;"><a class="" target="_blank" href="https://twitter.com/LFLParis" title="twitter" style=""><img src="https://lafashionlib.fr/wp-content/uploads/2016/06/twitter.png" border="0" width="32" height="32" alt="twitter" title="twitter" style="margin:2px;" /></a></li><li class="cn-fa-instagram" style="display:inline-block;"><a class="" target="_blank" href="https://www.instagram.com/lafashionlib/" title="instagram" style=""><img src="https://lafashionlib.fr/wp-content/uploads/2016/06/insta.png" border="0" width="32" height="32" alt="instagram" title="instagram" style="margin:2px;" /></a></li><li class="cn-fa-pinterest" style="display:inline-block;"><a class="" target="_blank" href="https://fr.pinterest.com/lafashionlib/" title="pinterest" style=""><img src="https://lafashionlib.fr/wp-content/uploads/2016/06/pinterest.png" border="0" width="32" height="32" alt="pinterest" title="pinterest" style="margin:2px;" /></a></li></ul></div> <!-- end .fwidget --></div> <!-- end .footer-widget -->	</div> <!-- #footer-widgets -->
+</div>	<!-- .container -->
+
+
+				<div id="footer-bottom">
+					<div class="container clearfix">
+
+						<div class="footer-bottom-menu footer-bottom-menu--left">
+							<div class="menu-footer-bottom-menu-container"><ul id="menu-footer-bottom-menu" class="menu"><li id="menu-item-276" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-276"><a href="https://lafashionlib.fr/mentions-legales/">Mentions légales</a></li>
+<li id="menu-item-277" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-277"><a href="https://lafashionlib.fr/cgu/">Conditions générales d&rsquo;utilisation</a></li>
+<li id="menu-item-275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="https://lafashionlib.fr/plan-du-site/">Plan du site</a></li>
+</ul></div>						</div>
+						<p class="footer-copyright">POWERED BY <a href="http://marketmaker.fr/">MARKET MAKER</a> + <a href="http://kromi.fr">KROMI</a></p>					</div>	<!-- .container -->
+				</div>
+			</footer> <!-- #main-footer -->
+		</div> <!-- #et-main-area -->
+
+
+	</div> <!-- #page-container -->
+
+	<div id="pum-605" class="pum pum-overlay pum-theme-599 pum-theme-default-theme popmake-overlay click_open" data-popmake="{&quot;id&quot;:605,&quot;slug&quot;:&quot;newsletter-subscribe&quot;,&quot;theme_id&quot;:599,&quot;cookies&quot;:[],&quot;triggers&quot;:[{&quot;type&quot;:&quot;click_open&quot;,&quot;settings&quot;:{&quot;extra_selectors&quot;:&quot;.newsletter-subscribe&quot;,&quot;do_default&quot;:null,&quot;cookie&quot;:{&quot;name&quot;:null}}}],&quot;mobile_disabled&quot;:null,&quot;tablet_disabled&quot;:null,&quot;meta&quot;:{&quot;display&quot;:{&quot;size&quot;:&quot;small&quot;,&quot;responsive_min_width&quot;:&quot;&quot;,&quot;responsive_max_width&quot;:&quot;&quot;,&quot;custom_width&quot;:&quot;640&quot;,&quot;custom_height&quot;:&quot;380&quot;,&quot;animation_type&quot;:&quot;fade&quot;,&quot;animation_speed&quot;:&quot;350&quot;,&quot;animation_origin&quot;:&quot;center top&quot;,&quot;location&quot;:&quot;center &quot;,&quot;position_bottom&quot;:&quot;&lt;em&gt;Before you can receive product updates, you must first authenticate your Elegant Themes subscription. To do this, you need to enter both your Elegant Themes Username and your Elegant Themes API Key into the Updates Tab in your theme and plugin settings. To locate your API Key, &lt;a href=\&quot;https:\/\/www.elegantthemes.com\/members-area\/api-key.php\&quot; target=\&quot;_blank\&quot;&gt;log in&lt;\/a&gt; to your Elegant Themes account and navigate to the &lt;strong&gt;Account &gt; API Key&lt;\/strong&gt; page. &lt;a href=\&quot;http:\/\/www.elegantthemes.com\/gallery\/divi\/documentation\/update\/\&quot; target=\&quot;_blank\&quot;&gt;Learn more here&lt;\/a&gt;&lt;\/em&gt;. If you still get this message, please make sure that your Username and API Key have been entered correctly&quot;,&quot;position_right&quot;:&quot;&lt;em&gt;Before you can receive product updates, you must first authenticate your Elegant Themes subscription. To do this, you need to enter both your Elegant Themes Username and your Elegant Themes API Key into the Updates Tab in your theme and plugin settings. To locate your API Key, &lt;a href=\&quot;https:\/\/www.elegantthemes.com\/members-area\/api-key.php\&quot; target=\&quot;_blank\&quot;&gt;log in&lt;\/a&gt; to your Elegant Themes account and navigate to the &lt;strong&gt;Account &gt; API Key&lt;\/strong&gt; page. &lt;a href=\&quot;http:\/\/www.elegantthemes.com\/gallery\/divi\/documentation\/update\/\&quot; target=\&quot;_blank\&quot;&gt;Learn more here&lt;\/a&gt;&lt;\/em&gt;. If you still get this message, please make sure that your Username and API Key have been entered correctly&quot;,&quot;position_top&quot;:&quot;100&quot;,&quot;position_left&quot;:&quot;&lt;em&gt;Before you can receive product updates, you must first authenticate your Elegant Themes subscription. To do this, you need to enter both your Elegant Themes Username and your Elegant Themes API Key into the Updates Tab in your theme and plugin settings. To locate your API Key, &lt;a href=\&quot;https:\/\/www.elegantthemes.com\/members-area\/api-key.php\&quot; target=\&quot;_blank\&quot;&gt;log in&lt;\/a&gt; to your Elegant Themes account and navigate to the &lt;strong&gt;Account &gt; API Key&lt;\/strong&gt; page. &lt;a href=\&quot;http:\/\/www.elegantthemes.com\/gallery\/divi\/documentation\/update\/\&quot; target=\&quot;_blank\&quot;&gt;Learn more here&lt;\/a&gt;&lt;\/em&gt;. If you still get this message, please make sure that your Username and API Key have been entered correctly&quot;,&quot;overlay_zindex&quot;:&quot;1999999998&quot;,&quot;zindex&quot;:&quot;1999999999&quot;,&quot;responsive_min_width_unit&quot;:&quot;px&quot;,&quot;responsive_max_width_unit&quot;:&quot;px&quot;,&quot;custom_width_unit&quot;:&quot;px&quot;,&quot;custom_height_unit&quot;:&quot;px&quot;},&quot;close&quot;:{&quot;text&quot;:&quot;Fermer&quot;,&quot;button_delay&quot;:&quot;0&quot;,&quot;overlay_click&quot;:&quot;true&quot;},&quot;click_open&quot;:{&quot;extra_selectors&quot;:&quot;&quot;}}}" role="dialog" aria-hidden="true" aria-labelledby="pum_popup_title_605">
+
+	<div id="popmake-605" class="pum-container popmake theme-599 pum-responsive pum-responsive-small responsive size-small">
+
+				
+
+				            <div id="pum_popup_title_605" class="pum-title popmake-title">
+				Inscrivez-vous à notre newsletter			</div>
+		
+
+		
+
+				<div class="pum-content popmake-content">
+			<div class="widget_wysija_cont shortcode_wysija"><div id="msg-form-wysija-shortcode63cff32da3fd7-1" class="wysija-msg ajax"></div><form id="form-wysija-shortcode63cff32da3fd7-1" method="post" action="#wysija" class="widget_wysija shortcode_wysija">
+<p class="wysija-paragraph">
+    
+    
+    	<input type="text" name="wysija[user][email]" class="wysija-input validate[required,custom[email]]" title="mon adresse mail" placeholder="" />
+    <input type="hidden" name="action" value="save" />
+    <input type="hidden" name="controller" value="subscribers" />
+    <input type="hidden" value="1" name="wysija-page" />
+
+    
+        <input type="hidden" name="wysija[user_list][list_ids]" value="3" />
+    
+ </form></div>
+		</div>
+
+
+				
+
+				            <button type="button" class="pum-close popmake-close" aria-label="Close">
+			Fermer            </button>
+		
+	</div>
+
+</div>
+<div class="gdpr gdpr-overlay"></div>
+<div class="gdpr gdpr-privacy-bar" style="display:none;">
+	<div class="gdpr-wrapper">
+		<div class="gdpr-content">
+			<p>En poursuivant votre navigation sur notre site, vous acceptez l'utilisation des cookies afin d'améliorer votre confort de navigation et de réaliser des statistiques de visites pour nous permettre de mieux comprendre l'intérêt que vous portez à nos services.</p>
+		</div>
+		<div class="gdpr-right">
+						<div class="gdpr-buttons">
+				<button class="gdpr-preferences" type="button">Préférences de confidentialité</button>
+				<button class="gdpr-agreement" type="button">J’approuve</button>
+			</div>
+			<span class="gdpr-close"></span>
+		</div>
+	</div>
+</div>
+
+<div class="gdpr gdpr-privacy-preferences">
+	<div class="gdpr-wrapper">
+		<form method="post" class="gdpr-privacy-preferences-frm">
+			<input type="hidden" name="action" value="gdpr_update_privacy_preferences">
+			<input type="hidden" id="update-privacy-preferences-nonce" name="update-privacy-preferences-nonce" value="e29c65b45f" /><input type="hidden" name="_wp_http_referer" value="/mon-compte/" />			<header>
+				<div class="gdpr-box-title">
+					<h3>Centre de préférences de confidentialité</h3>
+					<span class="gdpr-close"></span>
+				</div>
+			</header>
+			<div class="gdpr-mobile-menu">
+				<button type="button">Options</button>
+			</div>
+			<div class="gdpr-content">
+				<div class="gdpr-tabs">
+					<ul class="">
+						<li><button type="button" class="gdpr-tab-button gdpr-active" data-target="gdpr-consent-management">Gestion du consentement</button></li>
+																			<li><button type="button" class="gdpr-tab-button gdpr-cookie-settings" data-target="necessaires">Réglages de cookie</button>
+								<ul class="gdpr-subtabs">
+									<li><button type="button" data-target="necessaires" >Nécessaires</button></li><li><button type="button" data-target="analyse-de-trafic" >Analyse de trafic</button></li><li><button type="button" data-target="rgpd" >RGPD</button></li>								</ul>
+							</li>
+											</ul>
+					<ul class="gdpr-policies">
+																													<li><a href="https://lafashionlib.fr/politique-de-confidentialite/" target="_blank">Politique de confidentialité</a></li>
+																		</ul>
+				</div>
+				<div class="gdpr-tab-content">
+					<div class="gdpr-consent-management gdpr-active">
+						<header>
+							<h4>Gestion du consentement</h4>
+						</header>
+						<div class="gdpr-info">
+							<p>Les données personnelles recueillies dans le cadre des services proposés sur lafashionlib.fr sont transmises et conservées selon des protocoles sécurisés ; elles ne sont pas conservées au-delà de la durée légale.</p>
+																								<div class="gdpr-cookies-used">
+										<div class="gdpr-cookie-title">
+											<p>Politique de confidentialité</p>
+																							<span class="gdpr-always-active">Obligatoire</span>
+												<input type="hidden" name="user_consents[]" value="politique-de-confidentialite" style="display:none;">
+																					</div>
+										<div class="gdpr-cookies">
+											<span>La Fashionlib s'engage à ce que la collecte et le traitement de vos données, effectués à partir du site lafashionlib.fr, soient conformes au règlement général sur la protection des données (RGPD) et à la loi Informatique et Libertés.</span>
+										</div>
+									</div>
+																					</div>
+					</div>
+																<div class="necessaires">
+							<header>
+								<h4>Nécessaires</h4>
+							</header><!-- /header -->
+							<div class="gdpr-info">
+								<p>Identifiant unique de session, ne contient aucune données personnelles</p>
+																	<div class="gdpr-cookies-used">
+										<div class="gdpr-cookie-title">
+											<p>Cookies utilisés</p>
+																																		<span class="gdpr-always-active">Obligatoire</span>
+												<input type="hidden" name="approved_cookies[]" value="[&quot;PHPSESSID&quot;]">
+																					</div>
+										<div class="gdpr-cookies">
+											<span>PHPSESSID</span>
+										</div>
+									</div>
+																							</div>
+						</div>
+											<div class="analyse-de-trafic">
+							<header>
+								<h4>Analyse de trafic</h4>
+							</header><!-- /header -->
+							<div class="gdpr-info">
+								<p>Ces cookies nous permettent d'analyser de façon anonyme le comportement de nos visiteurs afin de leur proposer l’expérience la mieux adaptée.</p>
+																	<div class="gdpr-cookies-used">
+										<div class="gdpr-cookie-title">
+											<p>Cookies utilisés</p>
+																																		<label class="gdpr-switch">
+													<input type="checkbox" class="gdpr-cookie-category" data-category="analyse-de-trafic" name="approved_cookies[]" value="[&quot;_ga&quot;]"  checked='checked'>
+													<span class="gdpr-slider round"></span>
+													<span class="gdpr-switch-indicator-on">ACTIF</span>
+													<span class="gdpr-switch-indicator-off">INACTIF</span>
+												</label>
+																					</div>
+										<div class="gdpr-cookies">
+											<span>_ga</span>
+										</div>
+									</div>
+																							</div>
+						</div>
+											<div class="rgpd">
+							<header>
+								<h4>RGPD</h4>
+							</header><!-- /header -->
+							<div class="gdpr-info">
+								<p>Ces cookies nous permettent de garder en mémoire la liste des cookies que vous avez autorisés et de vos consentements afin de ne pas vous les redemander à chaque visite.</p>
+																	<div class="gdpr-cookies-used">
+										<div class="gdpr-cookie-title">
+											<p>Cookies utilisés</p>
+																																		<label class="gdpr-switch">
+													<input type="checkbox" class="gdpr-cookie-category" data-category="rgpd" name="approved_cookies[]" value="[&quot;gdprprivacy_bar&quot;,&quot;gdpr[allowed_cookies]&quot;,&quot;gdpr[consent_types]&quot;]"  checked='checked'>
+													<span class="gdpr-slider round"></span>
+													<span class="gdpr-switch-indicator-on">ACTIF</span>
+													<span class="gdpr-switch-indicator-off">INACTIF</span>
+												</label>
+																					</div>
+										<div class="gdpr-cookies">
+											<span>gdprprivacy_bar,gdpr[allowed_cookies],gdpr[consent_types]</span>
+										</div>
+									</div>
+																							</div>
+						</div>
+									</div>
+				<input type="hidden" name="all_cookies" value="[&quot;PHPSESSID&quot;,&quot;_ga&quot;,&quot;gdprprivacy_bar&quot;,&quot;gdpr[allowed_cookies]&quot;,&quot;gdpr[consent_types]&quot;]">
+			</div>
+			<footer>
+				<input type="submit" value="Enregistrer les préférences">
+			</footer>
+		</form>
+	</div>
+</div>
+
+<div class="gdpr gdpr-general-confirmation">
+	<div class="gdpr-wrapper">
+		<header>
+			<div class="gdpr-box-title">
+				<h3></h3>
+				<span class="gdpr-close"></span>
+			</div>
+		</header>
+		<div class="gdpr-content">
+			<p></p>
+		</div>
+		<footer>
+			<button class="gdpr-ok" data-callback="closeNotification">OK</button>
+		</footer>
+	</div>
+</div>
+<style type="text/css">
+            h2.frq-main-title{
+               font-size: 18px;
+            }
+            .hrf-entry{
+               border:none !important;
+               margin-bottom: 0px !important;
+               padding-bottom: 0px !important;
+            }
+            .hrf-content{
+               display:none;
+               color: #444444;
+               background: ffffff;
+               font-size: 14px;
+               padding: 10px;
+               padding-left: 50px;
+               word-break: normal;
+            }
+            h3.hrf-title{
+               font-size: 18px ;
+               color: #fd616f;
+               background: #ffffff;
+               padding: 10px ;
+               padding-left: 50px;
+               margin: 0;
+               -webkit-touch-callout: none;
+               -webkit-user-select: none;
+               -khtml-user-select: none;
+               -moz-user-select: none;
+               -ms-user-select: none;
+               user-select: none;
+               outline-style:none;
+            }
+            .hrf-title.close-faq{
+               cursor: pointer;
+            }
+            .hrf-title.close-faq span{
+               width: 30px;
+               height: 30px;
+               display: inline-block;
+               position: relative;
+               left: 0;
+               top: 8px;
+               margin-right: 12px;
+               margin-left: -42px;
+               background: #113545 url(https://lafashionlib.fr/wp-content/plugins/html5-responsive-faq/images/open.png) no-repeat center center;
+            }
+            }.hrf-title.open-faq{
+            
+            }
+            .hrf-title.open-faq span{
+               width: 30px;
+               height: 30px;
+               display: inline-block;
+               position: relative;
+               left: 0;
+               top: 8px;
+               margin-right: 12px;
+               margin-left: -42px;
+               background: #113545 url(https://lafashionlib.fr/wp-content/plugins/html5-responsive-faq/images/close.png) no-repeat center center;
+            }
+            .hrf-entry p{
+            
+            }
+            .hrf-entry ul{
+            
+            }
+            .hrf-entry ul li{
+            
+            }</style><script>jQuery(document).ready(function(){jQuery(".kiwi-logo-carousel-default").bxSlider({mode:"horizontal",speed:500,slideMargin:0,infiniteLoop:true,hideControlOnEnd:false,captions:false,ticker:false,tickerHover:false,adaptiveHeight:false,responsive:true,pager:false,controls:true,autoControls:false,minSlides:1,maxSlides:4,moveSlides:1,slideWidth:200,auto:true,pause:4000,useCSS:false});jQuery(".kiwi-logo-carousel-presse").bxSlider({mode:"horizontal",speed:500,slideMargin:20,infiniteLoop:true,hideControlOnEnd:false,captions:false,ticker:false,tickerHover:false,adaptiveHeight:false,responsive:true,pager:false,controls:true,autoControls:false,minSlides:1,maxSlides:4,moveSlides:1,slideWidth:150,auto:true,pause:3000,useCSS:false});jQuery(".kiwi-logo-carousel-tous").bxSlider({mode:"horizontal",speed:500,slideMargin:20,infiniteLoop:true,hideControlOnEnd:false,captions:false,ticker:false,tickerHover:false,adaptiveHeight:false,responsive:true,pager:false,controls:true,autoControls:false,minSlides:1,maxSlides:4,moveSlides:1,slideWidth:150,auto:true,pause:4000,useCSS:false});jQuery(".kiwi-logo-carousel-video").bxSlider({mode:"horizontal",speed:500,slideMargin:20,infiniteLoop:true,hideControlOnEnd:false,captions:false,ticker:false,tickerHover:false,adaptiveHeight:false,responsive:true,pager:false,controls:true,autoControls:false,minSlides:1,maxSlides:4,moveSlides:1,slideWidth:150,auto:true,pause:4000,useCSS:false});jQuery(".kiwi-logo-carousel-web-et-blog").bxSlider({mode:"horizontal",speed:500,slideMargin:20,infiniteLoop:true,hideControlOnEnd:false,captions:false,ticker:false,tickerHover:false,adaptiveHeight:false,responsive:true,pager:false,controls:true,autoControls:false,minSlides:1,maxSlides:4,moveSlides:1,slideWidth:150,auto:true,pause:4000,useCSS:false});});</script><style type="text/css" id="et-builder-advanced-style">
+				
+.et_pb_section_0.et_pb_section { background-color:#ffffff !important; }
+.et_pb_section_0 { padding-top: 0px; padding-bottom: 0px; }
+.et_pb_row_0 { padding-top: 0px; padding-bottom: 0px; }
+.et_pb_image_0 { margin-left: 0; }
+.et_pb_section_1.et_pb_section { background-color:#ffffff !important; }
+.et_pb_section_1 { padding-top: 0px; }
+			</style><script type='text/javascript' src='https://lafashionlib.fr/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://lafashionlib.fr/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://lafashionlib.fr/wp-includes/js/jquery/ui/mouse.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://lafashionlib.fr/wp-includes/js/jquery/ui/sortable.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://lafashionlib.fr/wp-content/themes/Divi/includes/builder/scripts/frontend-builder-global-functions.js?ver=2.7.10'></script>
+<script type='text/javascript' src='https://lafashionlib.fr/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"https:\/\/lafashionlib.fr\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","recaptcha":{"messages":{"empty":"Merci de confirmer que vous n\u2019\u00eates pas un robot."}},"sending":"Envoi en cours..."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://lafashionlib.fr/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.4.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var ajax = {"url":"https:\/\/lafashionlib.fr\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://lafashionlib.fr/wp-content/plugins/ultimate-wp-query-search-filter/classes/scripts/uwpqsfscript.js?ver=1.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/mon-compte\/?wc-ajax=%%endpoint%%","i18n_view_cart":"Voir Panier","cart_url":"https:\/\/lafashionlib.fr\/panier\/","is_cart":"","cart_redirect_after_add":"no"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//lafashionlib.fr/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=2.6.3'></script>
+<script type='text/javascript' src='//lafashionlib.fr/wp-content/plugins/woocommerce/assets/js/select2/select2.min.js?ver=3.5.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var pwsL10n = {"unknown":"Force du mot de passe inconnue.","short":"Tr\u00e8s faible","bad":"Faible","good":"Moyenne","strong":"Forte","mismatch":"Non concordance"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://lafashionlib.fr/wp-admin/js/password-strength-meter.min.js?ver=32f845ba2d6a7498ad29d5de13177aba'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_password_strength_meter_params = {"min_password_strength":"1","i18n_password_error":"Veuillez saisir un mot de passe plus complexe.","i18n_password_hint":"Le mot de passe doit contenir un minimum de sept caract\u00e8res. Pour le rendre complexe, utilisez des majuscules et des minuscules, des chiffres et des symboles tels que ! \" ? $ % ^ & )."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//lafashionlib.fr/wp-content/plugins/woocommerce/assets/js/frontend/password-strength-meter.min.js?ver=2.6.3'></script>
+<script type='text/javascript' src='//lafashionlib.fr/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.70'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/mon-compte\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//lafashionlib.fr/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=2.6.3'></script>
+<script type='text/javascript' src='//lafashionlib.fr/wp-content/plugins/woocommerce/assets/js/jquery-cookie/jquery.cookie.min.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/mon-compte\/?wc-ajax=%%endpoint%%","fragment_name":"wc_fragments"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//lafashionlib.fr/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=2.6.3'></script>
+<script type='text/javascript' src='https://lafashionlib.fr/wp-content/themes/divi-child/js/src/swiper.min.js?ver=1.1'></script>
+<script type='text/javascript' src='https://lafashionlib.fr/wp-content/themes/divi-child/js/fashionlib.js?ver=1.1'></script>
+<script type='text/javascript' src='https://lafashionlib.fr/wp-content/themes/divi-child/js/src/pickadate.min.js?ver=1.1'></script>
+<script type='text/javascript' src='https://lafashionlib.fr/wp-content/themes/Divi/includes/builder/scripts/jquery.mobile.custom.min.js?ver=2.7.10'></script>
+<script type='text/javascript' src='https://lafashionlib.fr/wp-content/themes/Divi/js/custom.js?ver=2.7.10'></script>
+<script type='text/javascript' src='https://lafashionlib.fr/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var pum_vars = {"ajaxurl":"https:\/\/lafashionlib.fr\/wp-admin\/admin-ajax.php","restapi":"https:\/\/lafashionlib.fr\/wp-json\/pum\/v1","rest_nonce":null,"default_theme":"599","debug_mode":"","disable_open_tracking":""};
+var pum_debug_vars = {"debug_mode_enabled":"Popup Maker Debug Mode Enabled","debug_started_at":"Debug started at:","debug_more_info":"For more information on how to use this information visit http:\/\/docs.wppopupmaker.com\/?utm_medium=js-debug-info&utm_campaign=ContextualHelp&utm_source=browser-console&utm_content=more-info","global_info":"Global Information","localized_vars":"Localized variables","popups_initializing":"Popups Initializing","popups_initialized":"Popups Initialized","single_popup_label":"Popup: #","theme_id":"Theme ID: ","label_method_call":"Method Call:","label_method_args":"Method Arguments:","label_popup_settings":"Settings","label_triggers":"Triggers","label_cookies":"Cookies","label_delay":"Delay:","label_conditions":"Conditions","label_cookie":"Cookie:","label_settings":"Settings:","label_selector":"Selector:","label_mobile_disabled":"Mobile Disabled:","label_tablet_disabled":"Tablet Disabled:","label_display_settings":"Display Settings:","label_close_settings":"Close Settings:","label_event_before_open":"Event: Before Open","label_event_after_open":"Event: After Open","label_event_open_prevented":"Event: Open Prevented","label_event_setup_close":"Event: Setup Close","label_event_close_prevented":"Event: Close Prevented","label_event_before_close":"Event: Before Close","label_event_after_close":"Event: After Close","label_event_before_reposition":"Event: Before Reposition","label_event_after_reposition":"Event: After Reposition","label_event_checking_condition":"Event: Checking Condition","triggers":{"click_open":{"name":"Click Open","modal_title":"Click Trigger Settings","settings_column":"<strong>Extra Selectors<\/strong>: {{data.extra_selectors}}"},"auto_open":{"name":"Auto Open","modal_title":"Auto Open Settings","settings_column":"<strong>Delay<\/strong>: {{data.delay}}"}},"cookies":{"on_popup_open":{"name":"On Popup Open","modal_title":"On Popup Open Settings"},"on_popup_close":{"name":"On Popup Close","modal_title":"On Popup Close Settings"},"manual":{"name":"Manual JavaScript","modal_title":"Click Trigger Settings"}}};
+var ajaxurl = "https:\/\/lafashionlib.fr\/wp-admin\/admin-ajax.php";
+var popmake_default_theme = "599";
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://lafashionlib.fr/wp-content/plugins/popup-maker/assets/js/site.min.js?defer&#038;ver=1.6.6' defer='defer'></script>
+<script type='text/javascript' src='https://lafashionlib.fr/wp-content/themes/Divi/includes/builder/scripts/jquery.fitvids.js?ver=2.7.10'></script>
+<script type='text/javascript' src='https://lafashionlib.fr/wp-content/themes/Divi/includes/builder/scripts/waypoints.min.js?ver=2.7.10'></script>
+<script type='text/javascript' src='https://lafashionlib.fr/wp-content/themes/Divi/includes/builder/scripts/jquery.magnific-popup.js?ver=2.7.10'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var et_pb_custom = {"ajaxurl":"https:\/\/lafashionlib.fr\/wp-admin\/admin-ajax.php","images_uri":"https:\/\/lafashionlib.fr\/wp-content\/themes\/Divi\/images","builder_images_uri":"https:\/\/lafashionlib.fr\/wp-content\/themes\/Divi\/includes\/builder\/images","et_frontend_nonce":"4cc107e46e","subscription_failed":"Veuillez v\u00e9rifier les champs ci-dessous pour vous assurer que vous avez entr\u00e9 les informations correctes.","et_ab_log_nonce":"48b0eaae76","fill_message":"S'il vous pla\u00eet, remplissez les champs suivants:","contact_error_message":"Veuillez corriger les erreurs suivantes :","invalid":"E-mail non valide","captcha":"Captcha","prev":"Pr\u00e9c\u00e9dent","previous":"Pr\u00e9c\u00e9dente","next":"Prochaine","wrong_captcha":"Vous avez entr\u00e9 le mauvais num\u00e9ro dans le captcha.","is_builder_plugin_used":"","is_divi_theme_used":"1","widget_search_selector":".widget_search","is_ab_testing_active":"","page_id":"91","unique_test_id":"","ab_bounce_rate":"5","is_cache_plugin_active":"no","is_shortcode_tracking":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://lafashionlib.fr/wp-content/themes/Divi/includes/builder/scripts/frontend-builder-scripts.js?ver=2.7.10'></script>
+<script type='text/javascript' src='https://lafashionlib.fr/wp-includes/js/wp-embed.min.js?ver=32f845ba2d6a7498ad29d5de13177aba'></script>
+<script type='text/javascript' src='https://lafashionlib.fr/wp-content/plugins/woocommerce-products-filter/js/front.js?ver=32f845ba2d6a7498ad29d5de13177aba'></script>
+<script type='text/javascript' src='https://lafashionlib.fr/wp-content/plugins/woocommerce-products-filter/js/html_types/radio.js?ver=32f845ba2d6a7498ad29d5de13177aba'></script>
+<script type='text/javascript' src='https://lafashionlib.fr/wp-content/plugins/woocommerce-products-filter/js/html_types/checkbox.js?ver=32f845ba2d6a7498ad29d5de13177aba'></script>
+<script type='text/javascript' src='https://lafashionlib.fr/wp-content/plugins/woocommerce-products-filter/js/html_types/select.js?ver=32f845ba2d6a7498ad29d5de13177aba'></script>
+<script type='text/javascript' src='https://lafashionlib.fr/wp-content/plugins/woocommerce-products-filter/js/html_types/mselect.js?ver=32f845ba2d6a7498ad29d5de13177aba'></script>
+<script type='text/javascript' src='https://lafashionlib.fr/wp-content/plugins/woocommerce-products-filter/js/malihu-custom-scrollbar/jquery.mousewheel.min.js?ver=32f845ba2d6a7498ad29d5de13177aba'></script>
+<script type='text/javascript' src='https://lafashionlib.fr/wp-content/plugins/woocommerce-products-filter/js/malihu-custom-scrollbar/jquery.mCustomScrollbar.min.js?ver=32f845ba2d6a7498ad29d5de13177aba'></script>
+<script type='text/javascript' src='https://lafashionlib.fr/wp-content/plugins/woocommerce-products-filter/js/malihu-custom-scrollbar/jquery.mCustomScrollbar.concat.min.js?ver=32f845ba2d6a7498ad29d5de13177aba'></script>
+<script type='text/javascript' src='https://lafashionlib.fr/wp-content/plugins/wysija-newsletters/js/validate/languages/jquery.validationEngine-fr.js?ver=2.17'></script>
+<script type='text/javascript' src='https://lafashionlib.fr/wp-content/plugins/wysija-newsletters/js/validate/jquery.validationEngine.js?ver=2.17'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wysijaAJAX = {"action":"wysija_ajax","controller":"subscribers","ajaxurl":"https:\/\/lafashionlib.fr\/wp-admin\/admin-ajax.php","loadingTrans":"Chargement...","is_rtl":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://lafashionlib.fr/wp-content/plugins/wysija-newsletters/js/front-subscribers.js?ver=2.17'></script>
+<script type='text/javascript' src='https://lafashionlib.fr/wp-content/plugins/kiwi-logo-carousel/third-party/jquery.bxslider/jquery.bxslider.js?ver=32f845ba2d6a7498ad29d5de13177aba'></script>
+	<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js"></script>
+</body>
+</html>
